@@ -1,4 +1,5 @@
 Why I Built This ;) : 
+
 I developed this project initially to help someone in university complete a student grading system assignment. Through this, I also enhanced my own skills in desktop app development, multi-layered architecture, and database handling with MySQL. I'm sharing this as part of my personal portfolio to showcase practical .NET development.”
 🧠 About the Project
 This application was originally built to help a university student complete a real-world academic project for managing student records and grades. Beyond that, it served as an opportunity to apply best practices in C# desktop development with a layered architecture and MySQL integration.
