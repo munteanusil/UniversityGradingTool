@@ -48,7 +48,7 @@ One student → many grades
 One subject → many grades
 Foreign keys are enforced with ON DELETE CASCADE.
 
-📺 Main Features
+ Main Features
 ✅ Student Management
 ✅ Subject (Discipline) Management
 ✅ Grade Recording and Editing
@@ -56,7 +56,7 @@ Foreign keys are enforced with ON DELETE CASCADE.
 ✅ Calculating averages and status (Passed/Failed)
 ✅ Export to CSV
 
-🖼️ UI Modules
+ UI Modules
 Form	Functionality
 MainForm	Navigation to all features
 StudentForm	CRUD operations for students
@@ -65,7 +65,7 @@ NoteForm	Add/edit grades, filter, calculate average
 AddStudentForm	Add a new student
 AddDisciplinaForm	Add a new subject
 
-🛠️ Setup Instructions
+ Setup Instructions
 Clone this repo:
 
 bash
@@ -75,8 +75,6 @@ Open the .sln file in Visual Studio
 Ensure you have MySQL running and create the DB with:
 
 sql
-Copiază
-Editează
 CREATE DATABASE catalog_note;
 USE catalog_note;
 -- Then create tables: studenti, discipline, note
@@ -88,6 +86,7 @@ Build and run the project in Visual Studio
 <img width="637" height="407" alt="image" src="https://github.com/user-attachments/assets/dd089aa6-8dcf-4785-a5b1-6121221a7f19" />
 <img width="812" height="447" alt="image" src="https://github.com/user-attachments/assets/df265c8c-472e-4878-b86c-3489f497c87b" />
 <img width="975" height="653" alt="image" src="https://github.com/user-attachments/assets/7b09cfd6-6e9f-44eb-9fb4-e8ad25b5dc08" />
+csv File:
 <img width="959" height="375" alt="image" src="https://github.com/user-attachments/assets/300d0c9f-46ee-489a-9c82-09b0f7ec64ac" />
 
 
